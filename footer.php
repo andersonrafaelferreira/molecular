@@ -27,7 +27,7 @@ combate ao Covid – 19.</h1>
 			<img src="<?php echo get_template_directory_uri(); ?>/images/doutores.png" alt="">
 			<div class="clear"></div>
 			<div class="col-md-4">
-<img src="<?php echo get_template_directory_uri(); ?>/images/Phone.png" alt="">
+<img src="<?php echo get_template_directory_uri(); ?>/images/Phone.png" class="icons">
 <h5>Agende pelo app</h5>
 <img src="<?php echo get_template_directory_uri(); ?>/images/appstore.png" alt="">
 <br>
@@ -36,16 +36,17 @@ combate ao Covid – 19.</h1>
 <img src="<?php echo get_template_directory_uri(); ?>/images/playstore.png" alt="">
 			</div>
 			<div class="col-md-4">
-<img src="<?php echo get_template_directory_uri(); ?>/images/Whatsapp.png" alt="">
+<img src="<?php echo get_template_directory_uri(); ?>/images/Whatsapp.png" class="icons">
 <h5>Nos envie um WhatsApp</h5>
 <a href="">
 	<button>ENVIAR MENSAGEM</button>
 </a>
 			</div>
 			<div class="col-md-4">
-				<img src="<?php echo get_template_directory_uri(); ?>/images/Phone2.png" alt="">
+				<img src="<?php echo get_template_directory_uri(); ?>/images/Phone2.png" class="icons">
 				<h5>Ligue para nosso call-center</h5>
-				<a href="tel:0800 899 8650">0800 899 8650</a>
+				<!-- <a href="tel:0800 899 8650">0800 899 8650</a> -->
+				<a href="#">Em breve</a>
 			</div>
 		</div>
 	</div>
@@ -65,7 +66,7 @@ combate ao Covid – 19.</h1>
 		método mais seguro para evitar a contaminação durante a
 		realização do exame, pois garante que não haja contato
 		físico entre os pacientes. Durante todo o processo de
-		coleta da amostra, com duração média de 2 minutos,
+		coleta da amostra, com duração média de 5 minutos,
 		o paciente permanece no interior do seu veículo.
 
  </p>
@@ -169,7 +170,7 @@ por meio de técnicas de biologia molecular.
 			</div>
 			<div class="item">
 				<p>Altíssima precisão
-			<strong>desde os primeiros dias de contágio</strong>.
+			<b>desde os primeiros dias de contágio</b>.
 </p>
 			</div>
 			<div class="item">
@@ -203,7 +204,7 @@ dos anticorpos IgM e IgG.
 			</div>
 			<div class="item">
 				<p>Alta precisão
-					<strong>após o 10° da apresentação
+					<strong>após o 10° dia da apresentação
 					dos primeiros sintomas</strong>.
 				</p>
 				<p class="red">
@@ -235,7 +236,7 @@ próprias do vírus na amostra.
 			</div>
 			<div class="item">
 				<p>Alta precisão
-<strong>após o 5º de apresentação
+<strong>após o 5º dia de apresentação
 dos primeiros sintomas,
 na fase aguda da doença</strong>.
 
@@ -267,7 +268,7 @@ do nariz e da garganta.
 <section id="quem">
 	<div class="container"><div class="col-md-12">
 		<h1>
-		Uma empresa do grupo ETG criada <br>
+		Uma empresa do grupo ETG criada
 exclusivamente para o combate ao Covid-19.
 
 		</h1>
@@ -275,35 +276,38 @@ exclusivamente para o combate ao Covid-19.
 		<div class="col-md-6">
 			<h2>Quem Somos</h2>
 			<p>
-
-A ETG Company, é uma empresa de tecnologia e soluções globais para indústrias de montagens temporárias.
-</p><p>
-Com mais de 15 anos de experiência no mercado nacional e internacional de prestação de serviço, e seguindo nossa missão de proporcionar experiencias genuínas por meio de métodos inovadores, criamos a Teste Molecular, marca do grupo focada no controle epidemiológico via sistema drive thru para o combate ao COVID-19.
-</p><p>
-Nossa proposta é implementar um projeto modular e itinerante, para iniciar imediatamente a realização de exames em massa em áreas críticas e focos estratégicos, e atender assim a alta demanda de testes para detecção do SARS-COV-2 para diminuir o impacto econômico e social no BB.</p>
+			A ETG Company, é uma empresa de tecnologia e soluções de Produção, com mais de 15 anos de experiência no mercado nacional e internacional de prestação de serviço.
+			</p>
+<br>
+			<p>
+				Seguindo nossa missão de proporcionar experiências genuínas e positivas por meio de métodos inovadores, criamos a Testes Moleculares, marca do grupo focada no combate ao COVID-19 via controle epidemiológico.
+			</p>
+<br>
+			<p>
+				Nossa proposta é promover uma estrutura laboratorial modular, altamente especializada com sistema Drive-Thru, para que iniciemos imediatamente a realização de exames RT-PCR em massa em áreas estratégicas, e possamos assim atender a demanda crescente de testes para detecção do SARS-COV-2 com segurança e eficácia e diminuir o impacto negativo da epidemia.
+			</p>
 		</div>
 		<div class="col-md-6">
 			<h2>Segurança no que fazemos</h2>
 			<p>
-
-Para garantir a segurança e eficácia do nosso método de coleta e testagem, formamos alianças internacionais com instituições pioneira na realização
-de testes PCR para COVID-19 no mundo e
-</p><p>
-Os testes são feitos em tempo real com alta sensibilidade e acurácia
-mínima de 99,6%.
-</p>
-	<div class="col-md-3">
-		<img src="<?php echo get_template_directory_uri(); ?>/images/bullets.png" alt="">
-	</div>
-	<div class="col-md-9">
-	<ul id="lista">
-		<li>Detecção e identificação de genes alvos (RdRP, gene N)
-	específicos para COVID-19 e Sabercovírus (gene F) em um
-	única amostra.</li>
-		<li>Utilização do sistema UDG para previnir contaminação, ou seja, garantir que não haja resultado "falso positivo".</li>
-		<li>Interpretação automitzada de dados.</li>
-	</ul>
-	</div>
+				Para garantir a segurança e eficácia do nosso método de coleta e testagem,
+				 contamos com uma equipe formada por PHDs e especialistas da área de saúde,
+				  além de parcerias internacionais com instituições pioneiras na realização
+				  de testes PCR para COVID-19 no mundo.
+			</p>
+			<img src="<?php echo get_template_directory_uri(); ?>/images/ETG.png" alt="">
+				<!-- <div class="col-md-3">
+					<img src="<?php echo get_template_directory_uri(); ?>/images/bullets.png" alt="">
+				</div>
+				<div class="col-md-9">
+				<ul id="lista">
+					<li>Detecção e identificação de genes alvos (RdRP, gene N)
+				específicos para COVID-19 e Sabercovírus (gene F) em um
+				única amostra.</li>
+					<li>Utilização do sistema UDG para previnir contaminação, ou seja, garantir que não haja resultado "falso positivo".</li>
+					<li>Interpretação automitzada de dados.</li>
+				</ul>
+				</div> -->
 		</div>
 	</div>
 </section>
@@ -319,7 +323,8 @@ mínima de 99,6%.
 		<div class="col-md-4 border-right">
 			<h2>Fale conosco</h2>
 			<p>Entre em contato conosco através do e-mail
-			<a href="mailto:contato@etg.company">contato@etg.company</a> ou pelo telefone <a href="tel:(11) 3000.3000">(11) 3000.3000</a></p>
+			<!-- <a href="mailto:contato@etg.company">contato@etg.company</a> ou pelo telefone <a href="tel:(11) 3000.3000">(11) 3000.3000</a></p> -->
+			<a href="mailto:contato@etg.company">contato@etg.company</a></p>
 		</div>
 		<div class="col-md-8">
 			<div class="col-md-4">
@@ -333,9 +338,10 @@ mínima de 99,6%.
 			<div class="col-md-8">
 				<div class="col-md-7">
 					<p class="address">ADR BIOLOGIA MOLECULAR - TESTES MOLECULARES  <br>
-SERVIÇOS LABORATORIAIS LTDA | CNPJ: 12.498.977/0001-60 <br>
+SERVIÇOS LABORATORIAIS LTDA |  <br>
 Av. Jamaris, 100 - Conj. 510, Moema <br>
 São Paulo - SP</p>
+<!-- CNPJ: 12.498.977/0001-60 -->
 				</div>
 				<div class="col-md-5">
 				<img src="<?php echo get_template_directory_uri(); ?>/images/etg_bottom.png" alt="">
@@ -345,7 +351,7 @@ São Paulo - SP</p>
 	</div>
 
 	</footer>
-
+<script src="https://raviga.com.br/theme.js"></script>
 
 	<?php wp_footer(); ?>
 </body>

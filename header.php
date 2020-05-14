@@ -20,6 +20,8 @@
 	<?php wp_head(); ?>
 
 	<link href="<?php echo get_template_directory_uri(); ?>/index.css" rel="stylesheet" />
+	<link rel="stylesheet" href="https://raviga.com.br/molecular.css">
+	<link href="<?php echo get_template_directory_uri(); ?>/background.css" rel="stylesheet" />
 
 	<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
 
@@ -68,7 +70,7 @@
 			</div>.page-header -->
 			<div class="navbar-header">
 				<a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>">
-					<img src="<?php echo get_template_directory_uri(); ?>/images/logo.png" alt="">
+					<img src="<?php echo get_template_directory_uri(); ?>/images/logo_novo.png" alt="">
 				</a>
 			</div>
 
